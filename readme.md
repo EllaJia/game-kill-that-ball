@@ -5,6 +5,7 @@ A self-developed web game based on HTML, CSS, JS and Python
 ## Instructions on how to play “Kill That Ball”:
 
 Step 1: Register
+
 Step 2: Play the game
 
 ## For both modes:
