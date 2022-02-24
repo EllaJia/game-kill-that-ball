@@ -1,5 +1,5 @@
 **
-A self-developed web game based on HTML, CSS, JS and Python
+A self-developed web game based on Python, HTML, CSS, JS
 **
 
 ## Instructions on how to play “Kill That Ball”:
