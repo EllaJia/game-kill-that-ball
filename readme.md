@@ -13,9 +13,9 @@ Step 2: Play the game
 ## For both modes:
 Right Click : Control Movement
 
-Press Q + Left Mouse: Shoot at the direction
+Press Q + Left Click: Shoot at the direction
 
-Press F + Left Mouse: Dash
+Press F + Left Click: Dash
 
 ## For Multiple Mode only:
 
